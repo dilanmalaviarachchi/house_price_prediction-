@@ -43,4 +43,4 @@ Linear Regression is a method used to find the relationship between house price 
 
 ---
 
-Let me know if you need this to be shorter or need more changes!
+
